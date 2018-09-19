@@ -1,3 +1,5 @@
+/** Un mec m'avait demandé d'écrire une fonction pour ne pas retomber sur la même couleur lorsqu'il clique sur un button
+qui change la couleur dans un cercle, elle est dégueulasse mais elle marche ^^ */
 <!DOCTYPEhtml>
 <html>
 <head>
