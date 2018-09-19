@@ -1,4 +1,4 @@
-
+/** Test d'une fonction de drag */
 <!DOCTYPE html>
 
 <html>
