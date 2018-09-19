@@ -1,4 +1,5 @@
 <?php
+/** L'index qui gère les redirection selon le click de l'user dans la navbar ou autre accès à une page */
     if(isset($_GET['page']))
         switch($_GET['page']):
                 case 'Register';
