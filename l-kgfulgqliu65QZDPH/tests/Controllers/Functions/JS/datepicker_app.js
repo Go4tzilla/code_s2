@@ -1,4 +1,5 @@
-    /* Quite obvious, la nuance c'est que là j'évite les rdv pris le jour même, on évite les malpolis et en cas de vrais urgences ILS SE BOUGENT LE CUL */
+    /* Quite obvious, la nuance c'est que là j'évite les rdv pris le jour même, 
+    on évite les malpolis et en cas de vrais urgences ILS SE BOUGENT LE CUL */
 
     function datepicker_app() {
         
